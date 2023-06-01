@@ -1,0 +1,197 @@
+
+#containerimg{
+position: absolute;
+width: 1728px;
+height: 118px;
+left: 0px;
+top: 0px;
+background: #FFD900
+}
+
+#ccpx{
+position: absolute;
+width: 202px;
+height: 63px;
+left: 58px;
+top: 27px;
+}
+
+#solo{
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 800;
+font-size: 70px;
+line-height: 15px;
+display: flex;
+text-align: center;
+color: #F3C61F
+}
+
+#sole{
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 85px;
+display: flex;
+text-align: center;
+color: #FFFFFF;
+}
+
+#texto{
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 350;
+font-size: 28px;
+line-height: 35px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+position: absolute;
+width: 678px;
+height: 350px;
+left: 92px;
+top: 270px;
+}
+
+#frase{
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #F3C61F;
+position: absolute;
+width: 800px;
+height: 33px;
+left: 89px;
+top: 827px;
+}
+
+#quinta{
+position: absolute;
+width: 204px;
+height: 204px;
+left: 81px;
+top: 875px;
+}
+
+#sexta{
+position: absolute;
+width: 204px;
+height: 204px;
+left: 285px;
+top: 875px;
+}
+
+#esgotado{
+position: absolute;
+width: 204px;
+height: 204px;
+left: 489px;
+top: 875px;
+}
+
+#domingo{
+position: absolute;
+width: 204px;
+height: 204px;
+left: 693px;
+top: 875px;
+}
+
+#horario{
+position: absolute;
+width: 741px;
+height: 36px;
+left: 842px;
+top: 230px;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #E33881;
+}
+
+button{
+position: absolute;
+width: 596px;
+height: 148px;
+left: 1004px;
+top: 903px;
+background: #514988;
+border-radius: 20px;
+}
+
+button{
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 71px;
+padding-left: 65px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+#alerq{
+position: absolute;
+width: 880px;
+height: 510px;
+left: 817px;
+top: 273px;
+}
+
+#coundown{
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 85px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #514988;
+}
+
+#dia{
+position: absolute;
+width: 239px;
+height: 175px;
+left: 802px;
+top: 130px;
+}
+
+#hora{
+position: absolute;
+width: 270px;
+height: 175px;
+left: 987px;
+top: 130px;
+}
+
+#min{
+position: absolute;
+width: 273px;
+height: 175px;
+left: 1203px;
+top: 130px;
+}
+
+#seg{
+position: absolute;
+width: 239px;
+height: 175px;
+left: 1422px;
+top: 130px;
+}
